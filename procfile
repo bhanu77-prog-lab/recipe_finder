@@ -1,1 +1,1 @@
-web: gunicorn recipe_finder.recipe_finder.wsgi
+web: gunicorn recipe_finder.wsgi
